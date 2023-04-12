@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trend-following-367612",
+  "private_key_id": "62d010953de945a7087d385b695433b72b81c1e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCy461meUuD9suw\nQoGk4ydNLk1Mhg/QcrwDIVs8YEaG8SbTNA5mymSKAA0sbyh4yomBBcuD04HfD47q\namht2n8PI1w2As0012dQuZL75FXN4EG0zxtN2Wyk1ESlncxpcoyFTETGMT1/w4/g\n/ceiKpNKyn5A3BaqlxxoQZQXI5d4R2f8Zzn3fi/wzD6oXYWuPpUEFPysxjqgIs24\nu4YW9pQ/GRzVkZ5VSwmezSz5Il/y0iM9lUuZZdPX51RfzT7IoUo89Udn7J48i3Ql\nAetS4KMHZwl0Jxgz2ZHpmkdrUj05JZh6Hbn0R9du13b1FwpmlUKIhyHC3tVi0U8d\n8vmxZMhbAgMBAAECggEACyn+VljXh6LNT3C3Go06lKyBEneDYSTn6uIYCYqQnDdM\njv2+sFeNMreSGuXNBszNDApKiy2V+0/DQYnmfoSWTWGNjalbGSMgRX9vVt0HJdQL\nBbevIoqhJyBAMH3KlgIaFu+Nkzjbd6/CuO3dmZdCnfZJLs8NcxP/J9p/3XnRKCZh\n9Wudaoj+I17fl7gIJv0JGHGGVHUAows13KeM43nKwbkyIbF5TPtsgXASisMCP/RC\nVDQNlbTyyvWGahETMSEQNjDs/PXVZ/gBmpC4NeWgUH71fAcUO8h3s4Tj1XP6eYhG\nS8n3NNSIpeXsPrzDe6oxpXKotlcfsNpboRdfo9TSIQKBgQDaqimla32zFxwV/1mR\n87/RL/WrVCdsKps8lMshWYR3DV/Wa6svsuHdwny1GfnW3vONn2dFek5u3Yw3XrSD\no4s4H8pC/LuJ/nGlYeT37L68bmdQDZwMV6DP2Cr+fz0tjOHXga6D93hn0zdp0L6z\nrYwH6TxirlfDEBHcftvE4JMZqQKBgQDRbu8pwY4HJ70+J5lt1/bPgNYpifv/51Sv\nkYLi/F7SPV5mp8PxzE1Jma47Wx41BPDX76Z2rSQhwqEhSTv0NzjJre8bFYPNZrJu\n1f7bs2F7Drd+oLfYeykkdou98np22sk1wzcRAjWeRjbjaiJe9UT8DY82MTRy11Bh\nQWQF6/R8YwKBgAfKbkdtiAH8fcyu12Mi2x+55Lfg/LKW5gcHiiE7DkQrntGF7oh5\niCCdkFHnhgZI1Uajekt4axj6HcfPQQE7r3clctBmLsxg2224Ci9nKPiPunCYu4mZ\nCaq+GfINWIGp9lX2UeBzzb9tQBkuDc1bDpUtkzA04/2YMfq4Ll5aXgNZAoGBAKpp\nR7WERtrPnQ6MDi3wwmUJgjl+i0wooSHSltu3Wjhbswp4i9md0W2H3NtzQtsFUCuE\nVsDOFU5bHd0FyADpRg3kt2AkW4CwhZPmEGAYT8NfsDMa9zzwygNfakl+meNIFtzm\nIVJ3p8VHgLX+0ETP8ffd2J/R3clsJX1dRdQDsIXdAoGBAI+eRZQG62tSBboh59br\n02OXU+T8eKPakjSkiwD2lL2HLiphZ84MulFFcSYE9Oa5nLYJnjuS3MhHVsLIjxkF\nv3FJPqB2oXjAb/59WffBkE5h1Z26bo/fqqfGCNcQ4q8y31CXza3iufTOSk9mpLRF\nQyFt1Z42GQBmx71LYuazF7Vz\n-----END PRIVATE KEY-----\n",
+  "client_email": "trading-portfolio-app@trend-following-367612.iam.gserviceaccount.com",
+  "client_id": "109545695921815293841",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trading-portfolio-app%40trend-following-367612.iam.gserviceaccount.com"
+}

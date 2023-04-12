@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Report</title>
+    <style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+    <h1>Report</h1>
+    <p>Here's a chart of your portfolio performance:</p>
+
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+      
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+<script>
+    const ctx = document.getElementById('myChart');
+    
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+        labels: [{% for item in content.date_range_no_datetime %}
+                    "{{item}}",
+                    {% endfor %}],
+        datasets: [{
+            label: 'NAV',
+            data: [{% for item in content.list_values_NAV %}
+                    "{{item}}",
+                    {% endfor %}],
+            borderWidth: 1
+        }]
+        },
+        options: {
+        scales: {
+            y: {
+            beginAtZero: false,
+            },
+        responsive: true, // Instruct chart js to respond nicely.
+        maintainAspectRatio: false, // Add to prevent default behaviour of full-width/height 
+        },
+        }
+    });
+</script>
+
+</html>

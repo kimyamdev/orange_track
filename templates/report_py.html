@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Track</title>
+  </head>
+  <style>
+    img.responsive {
+        max-width: 100%;
+        height: auto;
+    }
+  </style>
+  <body>
+    <h1>Active Stocks - Portfolio Report - {{ content.today }}</h1>
+    <img src="{{ content.nav_chart }}" alt="Chart" class="responsive">
+    <br>
+    <img src="{{ content.current_vs_invested_chart }}" alt="Chart" class="responsive">
+    <br>
+    <img src="{{ content.scatter_orders_over_time }}" alt="Chart" class="responsive">
+    <br>
+    <img src="{{ content.pnl_chart }}" alt="Chart" class="responsive">
+    <br>
+    <img src="{{ content.portfolio_today_chart }}" alt="Chart" class="responsive">
+
+
+    
+
+    
+  </body>
+</html>
